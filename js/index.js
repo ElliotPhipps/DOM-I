@@ -40,3 +40,12 @@ const siteContent = {
 // Example: Update the img src for the logo
 let logo = document.getElementById("logo-img");
 logo.setAttribute('src', siteContent["nav"]["img-src"])
+
+// Create selectors to point your data into elements
+
+// Add new content
+
+// Stretch Goals
+
+// Update styles throughout the page as you see fit.  Study what happens when you updated the DOM using style in JavaScript.  
+// * [ ] Study tomorrow's lesson on events and try to integrate a button that can update content on the site with a click of a button.  You could build a similar data object with new values to help you test the click event.
